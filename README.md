@@ -1,5 +1,5 @@
-# Movie Industry Analytics: Budget vs Gross Revenue Analysis
-*Python Portfolio Project*
+# Movie Industry Analytics: Budget vs Gross Revenue Analysis (with Python)
+
 
 ## Project Overview
 In this project, I analyzed movie data in Python to see if higher budgets mean higher box office earnings by cleaning, visualizing, and running correlations on the data.
