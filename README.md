@@ -15,3 +15,8 @@ analysis, and statistical correlation.
 3. **Exploratory Data Analysis (EDA):** Examining distributions, top genres, and high-performing production companies.
 4. **Correlation Analysis:** Evaluating the statistical relationship between budget and gross revenue using visualization and correlation
    matrices.
+
+## 📂 Project Structure
+```text
+├── python-data-analyst-project-movies.ipynb   # Main Python script
+├── movies.csv                                 # Raw dataset file
