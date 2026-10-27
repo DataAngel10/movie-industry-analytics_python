@@ -2,8 +2,7 @@
 *Python Portfolio Project*
 
 ## Project Overview
-An exploratory data analysis (EDA) in Python examining the relationship between movie budgets and gross revenues, covering data cleaning, 
-analysis, and statistical correlation.
+In this project, I analyzed movie data in Python to see if higher budgets mean higher box office earnings by cleaning, visualizing, and running correlations on the data.
 
 ## 🛠️ Tools & Libraries
 - **Language:** Python
